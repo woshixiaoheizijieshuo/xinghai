@@ -88,6 +88,9 @@ local SIJt = Window:Tab("视觉",'88328893266410')
 local SIJ = SIJt:section("视觉",true)
 local GIY = SIJt:section("光影",true)
 
+local QH = Window:Tab("俄亥俄州",'88328893266410')
+local QB = QH:section("自动模式",true)
+
 local EF = Window:Tab("FE",'88328893266410')
 local FE = EF:section("FE",true)
 
